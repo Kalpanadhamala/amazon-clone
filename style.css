@@ -236,3 +236,14 @@ ul a{
     font-size: 0.7rem;
     text-align: center;
 }
+.brand-name{
+    font-weight: bold;
+    font-size: 16px;
+    text-align: center;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    height: 100%;
+    text-shadow: 4px 4px green;
+
+}
